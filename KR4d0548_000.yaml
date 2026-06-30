@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0548/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0548_WYG_000-1a, image: WYG1216/WYG1216-0699a.png}
+body:
+  text: 林外野言别集類四元提要臣等謹案林外野言二卷元郭翼撰翼字熙仲崑山人少從衛培學精於易義嘗獻策張士誠不能用歸耕婁上老得訓導官竟與時忤偃蹇以沒盧熊為作墓志見朱圭名蹟録中翼明敏博學不屑為舉子業専意作古文詞尤工於詩嘗自號東郭生又稱野翁而名所著集曰林外野言今所傳凡上下二卷附與顧仲瑛書一篇考玉山名勝乾坤清氣諸集所録翼詩不見此集者尚多疑已為翼所刪棄又如題劉龍洲墓送道士游武當諸詩皆别見吕誠集中則或編詩者所誤入未可知也翼從楊維楨遊為詩盤屈清硬頗近其流派維楨亦深以精悍許之其間如望夫石精衛詞諸篇皆用鐵崖樂府體尤為酷似要其筆力挺徑絶無懦響在元季吳下詩人中可謂矯然特出者矣乾隆四十六年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:dd63bcb81b22c9dde448946e1e8f0a52b3be2fc5be5a919bbf8798251ea2b473
+metadata:
+  title: 林外野言
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:14:00.126362'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0548/KR4d0548_000.txt
+hash: sha256:a7684b1a4586ad2574ded85e26d1c570cec514426ee1f464ee622526e6d08806
